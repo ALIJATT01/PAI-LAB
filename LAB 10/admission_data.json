@@ -1,0 +1,24 @@
+{
+    "admission_info": {
+      "undergraduate": {
+        "eligibility": "intermediate transcripts with minimum 60% marks.",
+        "documents": ["intermediate transcripts", "ID proof", "Application form", "Recommendation letters"],
+        "deadlines": "June 30, 2025 for Fall semester",
+        "fees": "20000 PKR application fee, 100,000 PKR per semester (approx.)",
+        "programs": ["Computer Science", "Software Engineering", "Business education", "Arts&Science"]
+      },
+      "postgraduate": {
+        "eligibility": "Bachelor’s degree with minimum 3.0 GPA.",
+        "documents": ["Bachelor’s degree certificate", "Transcripts", "Statement of Purpose", "2 Recommendation letters"],
+        "deadlines": "May 15, 2025 for Fall semester",
+        "fees": "20000 PKR application fee, 120,000 PKR per semester (approx.)",
+        "programs": ["MBA", "Data Science", "Software Engineering", "Cyber Security","Computer Science"]
+      },
+      "contact": {
+        "email": "admissions@superior.edu.pk",
+        "phone": "+1-123-456-7890",
+        "office_hours": "9 AM - 5 PM, Monday to Friday"
+      }
+    }
+  }
+  
